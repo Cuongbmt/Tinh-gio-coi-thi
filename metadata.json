@@ -1,0 +1,6 @@
+{
+  "name": "Bộ Chuyển Đổi Bảng Lịch Thi Sang Bảng Kê Khai Coi Thi",
+  "description": "Tự động phân tích lịch thi (Bảng 1), tách cán bộ coi thi, gộp phòng ghép, phân loại ca và giờ hành chính/ngoài giờ, xuất Bảng 2 kê khai tiết chuẩn Excel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
